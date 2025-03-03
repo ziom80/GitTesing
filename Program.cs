@@ -8,6 +8,7 @@ namespace GitTesting
         {
             Console.WriteLine("Hello World!");
             //testowy projekt
+            //testowy push 
         }
     }
 }
